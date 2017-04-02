@@ -27,3 +27,4 @@ a collection of brand identity guidelines
 - [Kew Gardens - Brand Guidelines](http://assets.kew.org/files/Kew%20Brand%20Guidelines.pdf)
 - [Scope - Brand Guidelines](https://www.scope.org.uk/Scope/media/Documents/About%20us/Scope-brand-guidelines.pdf)
 - [Eden Project - Brand Guidelines](http://www.edenproject.com/sites/default/files/eden-project-brand-guidelines.pdf)
+- [Dell - Brand Standards](http://hst.tradedoubler.com/file/3466/programme_information/Dell_Brand_Standards.pdf)
