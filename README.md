@@ -27,7 +27,7 @@ a collection of brand identity guidelines
 - [Kew Gardens - Brand Guidelines](http://assets.kew.org/files/Kew%20Brand%20Guidelines.pdf)
 - [Scope - Brand Guidelines](https://www.scope.org.uk/Scope/media/Documents/About%20us/Scope-brand-guidelines.pdf)
 - [Eden Project - Brand Guidelines](http://www.edenproject.com/sites/default/files/eden-project-brand-guidelines.pdf)
-- [Evernote Brand - Guideliens](https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf)
+- [Evernote Brand - Guidelines](https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf)
 - [Christian Aid - Visual Identity Guidelines](https://www.christianaid.org.uk/Images/CVI-guidelines-25-october-2013_tcm15-73293.pdf)
 - [National Forest - Logo Guidelines](https://www.nationalforest.org/document/reports/logo_guidelines.pdf)
 - [Dell - Brand Standards](http://hst.tradedoubler.com/file/3466/programme_information/Dell_Brand_Standards.pdf)
